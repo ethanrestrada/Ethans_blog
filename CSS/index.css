@@ -177,6 +177,7 @@ footer{
 
 footer svg{
     display: block;
+    width: 100%;
 }
 
 .footer__form{

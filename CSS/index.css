@@ -172,6 +172,7 @@ footer{
     width: 100%;
     display: flex;
     flex-flow: column wrap;
+    margin-top: 1em;
 }
 
 footer svg{
@@ -361,6 +362,7 @@ input[type="submit"]{
 
     footer{
         flex-flow: row wrap;
+        margin-top: .8em;
     }
 
     .footer__form{
@@ -460,6 +462,10 @@ input[type="submit"]{
 
     .fas::after{
         font-size: 1.3em;
+    }
+
+    footer{
+        margin-top: .6em;
     }
 
     form{
